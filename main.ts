@@ -12,4 +12,4 @@ radio.onReceivedValue(function (name, value) {
         pins.digitalWritePin(DigitalPin.P0, 0)
     }
 })
-radio.setGroup(3220)
+radio.setGroup(2)
